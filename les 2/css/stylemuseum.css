@@ -1,0 +1,57 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: black;
+}
+p {
+  font-family: sans-serif;
+  color: white;
+}
+img{
+  max-width: 100%;
+}
+nav{
+  background-color: grey;
+  height: 30px;
+}
+nav a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  width: 200px;
+  padding: 10px 20px;
+  float: left;
+  text-align: center;
+}
+h1{
+  font-family: sans-serif;
+  color: white;
+  clear: both;
+  margin:0;
+  padding:30px;
+
+}
+nav a:hover{
+  background-color:rgb(34, 33, 33);
+}
+h3{
+  font-family: sans-serif;
+  color: white;
+}
+:root {
+  color: white;
+}
+footer{
+  background-color: grey;
+  color:white;
+  padding: 10px 20px;
+}
+section{
+  background-color: rgb(26, 24, 24)
+}
+
+
+
