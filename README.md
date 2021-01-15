@@ -19,5 +19,14 @@ http://30554.hosts1.ma-cloud.nl/F1M2-Ontwerp/F1M2-Ontwerp/les%202/
 link naar live pagina les 3
 http://30554.hosts1.ma-cloud.nl//F1M2-Ontwerp/F1M2-Ontwerp/les%203/index.html
 
-live pagina intern menu
-http://30554.hosts1.ma-cloud.nl/F1M2-Ontwerp/F1M2-Ontwerp/materiaal-oefening-menu/index.html
+live pagina les 4
+http://30554.hosts1.ma-cloud.nl/F1M2-Ontwerp/F1M2-Ontwerp/les%204/flexbox.html
+http://30554.hosts1.ma-cloud.nl//F1M2-Ontwerp/F1M2-Ontwerp/les%204/index.html
+http://30554.hosts1.ma-cloud.nl//F1M2-Ontwerp/F1M2-Ontwerp/les%204/inline-block.html
+http://30554.hosts1.ma-cloud.nl//F1M2-Ontwerp/F1M2-Ontwerp/les%204/inline.html
+
+live pagina les 5
+http://30554.hosts1.ma-cloud.nl/F1M2-Ontwerp/F1M2-Ontwerp/les%205/materiaal-oefening-menu/
+
+link live pagina les 6
+http://30554.hosts1.ma-cloud.nl/F1M2-Ontwerp/F1M2-Ontwerp/les%206/materiaal-voor-Bootstrap-grid-training/index.html
